@@ -15,12 +15,13 @@ import "firebase/auth";
 import "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAqae3ENw7GU7I7MEI4AdPyISgFLl1nViM",
-  authDomain: "chat-app-d523b.firebaseapp.com",
-  projectId: "chat-app-d523b",
-  storageBucket: "chat-app-d523b.appspot.com",
-  messagingSenderId: "22854053012",
-  appId: "1:22854053012:web:7b93bbdb0b2163f6839881",
+  apiKey: "AIzaSyArm-lZS7RRYhaO8la_1d7maV-g23O_j-I",
+  authDomain: "union-e54db.firebaseapp.com",
+  projectId: "union-e54db",
+  storageBucket: "union-e54db.appspot.com",
+  messagingSenderId: "763535439211",
+  appId: "1:763535439211:web:55ae0bbb893fbad5ebc82e",
+  measurementId: "G-FHZ2EVSZJF"
 };
 
 firebase.initializeApp(firebaseConfig);
