@@ -15,13 +15,12 @@ import "firebase/auth";
 import "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyArm-lZS7RRYhaO8la_1d7maV-g23O_j-I",
-  authDomain: "union-e54db.firebaseapp.com",
-  projectId: "union-e54db",
-  storageBucket: "union-e54db.appspot.com",
-  messagingSenderId: "763535439211",
-  appId: "1:763535439211:web:55ae0bbb893fbad5ebc82e",
-  measurementId: "G-FHZ2EVSZJF"
+  apiKey: "AIzaSyAjkSLFaGIsZ3CpSVYHfXIy1mBT437uu6Y",
+  authDomain: "lifemirror-a06da.firebaseapp.com",
+  projectId: "lifemirror-a06da",
+  storageBucket: "lifemirror-a06da.appspot.com",
+  messagingSenderId: "438468519648",
+  appId: "1:438468519648:web:d399d581277b3a0b071285"
 };
 
 firebase.initializeApp(firebaseConfig);
